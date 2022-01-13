@@ -1,0 +1,77 @@
+body{
+}
+.buy-now-button{
+  background-color: #000;
+  color: white;
+  padding: 7px 16px;
+  border: none;
+  border-radius: 5px;
+}
+.mobile{
+  margin-bottom: 100px;
+}
+.laptop{
+  margin-bottom: 100px;
+}
+.navbar-brand img{
+  width: 100px;
+}
+/* .navbar-nav .nav-link{
+  margin-left: 20px;
+} */
+.col-md-5 h3{
+  margin-bottom: 20px;
+}
+.col-md-5 p{
+  margin-bottom: 15px;
+  color: gray;
+}
+header{
+  margin-bottom: 100px;
+}
+/* .navbar-nav .nav-link{
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 600;
+} */
+.header-text-part{
+  margin-bottom: 30px;
+}
+.header-text-part p{
+  color: orange;
+  font-weight: bold;
+}
+.card{
+  box-shadow: 4px 4px 10px #928989;
+  border-radius: 15px;
+}
+.card-footer{
+  background-color: white;
+  border-top: none;
+  text-align: center;
+}
+.card-body{
+  text-align: center;
+}
+/* .sho-perfume{
+  display: flex;
+  flex-direction: column;
+} */
+.center{
+  align-items: center;
+}
+.d-lg-grid img, .bag img{
+  padding: 15px;
+  /* background: wheat; */
+  box-shadow: .5px .5px 20px gray;
+}
+.perfume{
+  margin-top: 20px;
+}
+.pale img{
+  width: 100%;
+}
+.cat-text{
+  text-align: center;
+  border-bottom: 5px solid orange;
+}
